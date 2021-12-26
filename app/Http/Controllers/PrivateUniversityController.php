@@ -57,3 +57,4 @@ class PrivateUniversityController extends Controller
     }
 }
 // collapse [],[],[]  collect all array in one 
+//wv  bwrwev sevwd
